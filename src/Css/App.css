@@ -1,0 +1,217 @@
+*{
+    margin:0%;  
+ }
+.DivComp1,.DivComp2{
+    padding: 5% 8% 8% 8% !important;
+    /* padding-right: 8% !important ;
+    padding-left: 8% !important;
+    width: 100%;
+    height: 675px; */
+}
+.DivComp3,Footer{
+    padding-right: 8% !important ;
+    padding-left: 8% !important;
+}
+/* -----------------------------------------CSS NAVBAR------------------------------------------------ */
+.nav-link{
+    color:white !important;
+}
+.container-fluid {
+    background-color: rgb(48, 79, 65);
+}
+.me-auto {
+    text-align: center;  
+}
+.me-auto1,
+.me-auto2,
+.me-auto3{
+    display: inline-block !important ;
+   align-self: center;
+}
+/* .bg-dark {
+    padding: 5px !important;
+    padding-bottom: 10px !important;
+}
+
+.containerNavBar{
+    margin-left: 30px !important;
+}
+
+.navbar-brand {
+    margin-right: 60% !important;
+}
+
+.me-auto{
+    display:-webkit-inline-box !important;
+}
+
+.me-auto1,
+.me-auto2,
+.me-auto3{
+    margin-right: 20% !important;
+    color: white !important;
+}
+
+.Icono img{
+    width: 180px !important;
+    height: 40px !important;
+} */
+
+/* --------------------------------------------FIN------------------------------------------------------*/
+
+
+/* ----------------------------------------CSS COMPONENTE 1---------------------------------------------*/
+
+.DivComp1 {
+    background-color: rgb(39, 35, 35);
+   
+}
+.divTxt{
+    text-align: center;
+    align-self: end;
+    padding-bottom: 8%;
+}
+.FG {
+    text-align: justify;
+    color: white;
+}
+.texto {
+    color: white;
+}
+.img1{
+
+width: 100%;
+height: 110%;
+
+}
+
+/*-------------------------------------------- FIN-------------------------------------------------------*/
+
+
+
+/*-----------------------------------------CSS COMPONENTE 2----------------------------------------------*/
+
+.DivComp2 {
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+}
+.textos{
+    width: 500px;
+}
+.tituloComp2{
+    font-size: -webkit-xxx-large;
+    font-weight: 700;
+}
+.imagen2Comp{
+    align-self: center;
+    text-align:center;
+    width: 100%;
+}
+/*-------------------------------------------- FIN-------------------------------------------------------*/
+
+
+
+/*-----------------------------------------CSS COMPONENTE 3----------------------------------------------*/
+
+
+
+
+
+
+.DivComp3 {
+    background-color: rgb(39, 35, 35);
+    padding-bottom: 10%;
+}
+.textosComp3 {
+    display:inline-flex;
+    text-align: center;
+}
+.txt3 p{
+    margin:4%;
+    text-align: center;
+    color: rgb(190, 190, 190);
+}
+.txt3 h3,h1{
+    text-align: center;
+    color: white;
+}
+.txt3 img{
+    padding-bottom: 8%;
+}
+.filaDeImagenes{
+    margin-bottom: 10%;
+    padding-top: 10%;
+}
+.filaDeImagenes div img{
+    /* width: 100%!important;
+    height: 100%!important; */
+    border: solid 6px rgb(255, 255, 255);;
+    border-radius: 8%;
+}
+.imagenIzq img{
+    width: 336px !important;
+    height: 680px !important ;
+    object-fit: cover;
+}
+.imagenDer img{
+    width: 336px !important;
+    height: 680px !important ;
+ object-fit: cover ;
+}
+.ImgMedioA img{
+    width: 336px !important;
+    height: 330px !important ;
+    /* object-fit: cover ; */
+}
+.ImgMedioB img{
+    width: 336px !important;
+    height: 330px !important ;
+    /* object-fit: cover ; */
+}
+.ImgMedioA{
+   padding-bottom: 3% !important;
+}
+.ImgMedioB{
+    padding-top: 3% !important;
+}
+
+
+
+
+
+
+/*-------------------------------------------- FIN-------------------------------------------------------*/
+
+
+
+/*-------------------------------------------- CSS FOOTER 4----------------------------------------------*/
+
+
+.DivFooter {
+    background-color: rgb(255, 255, 255);
+    padding: 5% 5% !important;
+    text-align: center; 
+}
+.txtContacto{
+    align-self: center !important;
+}
+.txtContacto p{   
+        font-size: x-large;
+        font-weight: 750;    
+}
+.txtContacto button{
+        border: none;
+        border-radius: 50px;
+        background-color:rgb(48, 79, 65);
+ 
+            
+            color: white;
+            text-align: center;
+            font-family: inherit;
+            
+
+}
+
+
+/*-------------------------------------------- FIN-------------------------------------------------------*/
